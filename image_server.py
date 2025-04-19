@@ -79,3 +79,4 @@ async def image_generation(image_prompt: str):
 
 if __name__ == '__main__':
     app.run(transport='stdio')
+
